@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ayaz</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-ayaz-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="m-ayaz-xyz" /> </p>
 
-- 🌱 I’m currently learning **React Js, Tailwind Css**
+I build clean, modern, and responsive web applications using **React**, **Next.js**, **TailwindCSS** , and the **MERN stack**. My goal is to deliver intuitive UX, maintainable code, and scalable architecture.
 
 
 <h3 align="left">Connect with me:</h3>
