@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ayaz</h1>
 
 <h3 align="center">
-Full Stack Developer • MERN • Next.js • AI Integration
+Software Engineer • Full Stack Developer 
 </h3>  
 
 I'm a Full Stack Developer passionate about building scalable web applications, AI-powered products, and solving real-world problems through technology.
